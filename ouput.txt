@@ -1,0 +1,25 @@
+pwd ; mkdir test_dir ; cd test_dir
+sfjlksagjlks;ls; pwd;
+cd .. ; cd test_dir ; pwd
+cp ../input.txt . ; ls 
+mv input.txt del.txt ; pwd ; ls
+; ls; cat del.txt;;;;;;;;;;   rm del.txt
+cd .. ; pwd pwdl; pwd
+ls ls ls ls ; test ls
+ls; exit;
+ls
+/home/lervisnh/workspace/lervisnh-shell
+mkdir test_dir sucess
+Error! Unrecognized command: sfjlksagjlks
+. .. 
+/home/lervisnh/workspace/lervisnh-shell/test_dir
+/home/lervisnh/workspace/lervisnh-shell/test_dir
+. .. input.txt 
+/home/lervisnh/workspace/lervisnh-shell/test_dir
+. .. del.txt 
+. .. del.txt 
+Error! Unsupported parameters for command: pwd
+/home/lervisnh/workspace/lervisnh-shell
+Error! Incorrect syntax. No control code found
+. .. lervisnh-shell ouput.txt src test_dir input.txt 
+Exit lervisnh-shell. Bye ~
